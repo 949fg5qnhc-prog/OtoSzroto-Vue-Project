@@ -1,1 +1,3 @@
 Pierwszy projekt w którym użyłem Vue, dużo elementów było nowych, a co za tym idzie niemała część była pisana z pomocą internetu (większość tego to polecenia używające axios i routera). Brakuje zdjęć i większej ilości przykładów, ale to jest czyste wpisywanie i podawanie danych, nic co by mnie nauczyło czegoś nowego. Następny przystanek w nauce to react i głębsze zrouzumienie vue.
+Do uruchomienia trzeba użyć komend npm run dev, npm run server.
+Dodatkowe biblioteki w tym projekcie to Tailwindcss i PrimeIcons.
