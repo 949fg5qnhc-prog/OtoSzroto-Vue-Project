@@ -1,0 +1,4 @@
+make it not look ugly
+add some space for ads
+make it possible to load multiple photos and add a scroller with a bigger view
+ 
